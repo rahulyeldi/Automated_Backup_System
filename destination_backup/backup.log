@@ -1,0 +1,8 @@
+Starting backup process at 20240928_230243...
+Transfer starting: 2 files
+./important_script.sh
+
+sent 569 bytes  received 48 bytes  246 bytes/sec
+total size is 386  speedup is 0.63
+Backup of /Users/rahulsanjeevyeldi/source_backup completed successfully at 20240928_230243.
+Backup process completed.
